@@ -1,6 +1,6 @@
                                                     Title: #forkify
 
-                                                      Descripton:
+                                                      Descripton
 What this app does ->                              
 A food app which provides the recipe of different food according to user need.
 
@@ -14,9 +14,9 @@ What language is used ->
 Javascript: Pure JS is used in this app.
 
 
-                                                      Features:
-Searching: User can search recipe of his/her needy food.
-Bookmark: User can bookmark recipe of his/her favourite food.
+                                                      Features
+Searching: User can search recipe of his/her needy food.User can see his/her search result in left side his/her favourite food.
+Bookmark: User can bookmark recipe of his/her favourite food. User can see its bookmark on top-right side on bookmark menu.
 Add Recipe: If user have its own recipe of any food, then he/she can add that recipe and title should contain specific food name. 
             for eg: if the food is pizza then title should contain pizza in starting or in end.
 
