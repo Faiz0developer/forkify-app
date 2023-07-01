@@ -9,7 +9,7 @@ varities of pizza on left side it contains.
 After all type of pizza listed, then you can get recipe of individual pizza by clicking on that individual pizza.
 User will get recipe on right side.
 
-What language is used -> Javascript: Pure JS is used in this app.
+language used -> Javascript is used to code this app.
 
 
                                                       Features
